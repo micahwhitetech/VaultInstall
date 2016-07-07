@@ -1,0 +1,9 @@
+{
+  "itemName": "App Center Sync",
+  "templateId": "{93227C5D-4FEF-474D-94C0-F252EC8E8219}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{6E14276A-FD7F-40EC-9880-4EA96135AE9D}",
+  "childIds": [
+    "{D2D0D348-452D-472D-844D-31899BCD91FD}"
+  ]
+}

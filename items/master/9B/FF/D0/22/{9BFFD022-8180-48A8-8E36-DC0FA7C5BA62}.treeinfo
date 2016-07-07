@@ -1,0 +1,10 @@
+{
+  "itemName": "Head Placeholder",
+  "templateId": "{0437FEE2-44C9-46A6-ABE9-28858D9FEE8C}",
+  "branchId": "{00000000-0000-0000-0000-000000000000}",
+  "parentId": "{2FFF5D2D-E377-4FC9-88C3-A047C5521FF1}",
+  "childIds": [
+    "{90FA1879-A5EC-4E2A-B033-BFDD38E630F5}",
+    "{E0D4E9BC-6B61-4DE9-8695-E7CF4E01A834}"
+  ]
+}
